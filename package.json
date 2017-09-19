@@ -1,0 +1,13 @@
+{
+    "name": "ps_jwt",
+    "version": "1.0.0",
+    "description": "JWT test frontend and api",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/owenbarford/ps_jwt.git"
+    },
+    "author": "Owen Barford",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/owenbarford/ps_jwt/issues"
+    }, 
