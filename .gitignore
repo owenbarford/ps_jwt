@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# ignore any temporary stylesheets
+frontend/.tmp/styles/bootstrap-superhero.css
+frontend/.tmp/styles/main.css
